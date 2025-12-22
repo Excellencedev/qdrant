@@ -1,6 +1,5 @@
 /target
 /.idea
-/.vscode
 /.devcontainer
 /storage
 /snapshots
@@ -17,5 +16,6 @@ tests/storage-compat/full-snapshot.snapshot.gz
 tests/storage-compat/storage.tar.bz2
 venv
 .venv
-.env
 .python-version
+config.bat
+node_modules
