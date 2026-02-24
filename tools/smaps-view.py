@@ -12,6 +12,8 @@ Example output:
     rw-s: 0.06%
 """
 
+import lib.transport
+import lib.session
 import re
 import sys
 import argparse
