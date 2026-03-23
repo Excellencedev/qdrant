@@ -12,6 +12,8 @@ Amalgamation
 # dependencies = [ "tomlkit" ]
 # ///
 
+import lib.transport
+import lib.session
 import functools
 import os.path
 import re
